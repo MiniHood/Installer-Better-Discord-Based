@@ -11,7 +11,7 @@ This is a quick installer coded in C# based on better discords installer.
 
 
 ## 🚀 About Me
-I'm a up and coming full stack developer that mainly codes in C#, CSS, HTML, JavaScript and Lua.
+I'm a up and coming front end that mainly codes in C#, CSS, HTML, JavaScript and Lua.
 
 If you have any questions message me on discord: HowNiceOfYou#4457
 
